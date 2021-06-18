@@ -1,0 +1,92 @@
+body {
+  text-align: center;
+}
+
+/* .header {
+  font-weight: normal;
+} */
+/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+@media screen and (min-width: 601px) {
+  .header {
+    font-size: 64px;
+  }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  .header {
+    font-size: 32px;
+  }
+}
+
+/* backgroundColor: [ 'rgb(255, 99, 132)',
+'rgb(255, 159, 64)',
+'rgb(255, 205, 86)',
+'rgb(75, 192, 192)',
+'rgb(54, 162, 235)',
+'rgb(153, 102, 255)',
+'rgb(201, 203, 207)' */
+
+
+/*
+#timer0 .card-header {
+  border-bottom-width: 8px;
+  border-color: rgb(255, 99, 132);
+  /* border-bottom: solid 8px rgb(255, 99, 132); */
+}
+
+/*
+#timer1 .card-header {
+  border-color: rgb(255, 159, 64);
+  border-bottom-width: 8px;
+}
+
+#timer2 .card-header {
+  border-color: rgb(255, 205, 86);
+  border-bottom-width: 8px;
+
+}
+
+#timer3 .card-header {
+  border-color: rgb(75, 192, 192);
+  border-bottom-width: 8px;
+
+}
+
+#timer4 .card-header {
+  border-color: rgb(54, 162, 235);
+  border-bottom-width: 8px;
+
+}
+
+#timer5 .card-header {
+  border-color: rgb(153, 102, 255);
+  border-bottom-width: 8px;
+
+}
+
+#timer6 .card-header {
+  border-color: rgb(201, 203, 207);
+  border-bottom-width: 8px;
+}
+*/
+/*
+#timer6 {
+  background: #FC8370;
+}
+
+#timer7 {
+  background: #FCD277;
+}
+
+#timer8 {
+  background: #B4E080;
+}
+
+#timer9 {
+  background: #73B1F4;
+}
+
+#timer10 {
+  background: #B3A5EF;
+} */
