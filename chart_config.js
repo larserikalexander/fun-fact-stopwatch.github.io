@@ -6,7 +6,7 @@ const config = {
     maintainAspectRatio: false,
     plugins: {
       legend: {
-        display: false,
+        display: true,
         position: 'right',
       },
       title: {
